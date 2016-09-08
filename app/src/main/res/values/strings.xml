@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FragmentNoUi</string>
+    <string name="task_progress_msg">progress</string>
+    <string name="zero_percent">0%</string>
+    <string name="start">start</string>
+    <string name="cancel">cancel</string>
+    <string name="task_started_msg">task started!</string>
+    <string name="task_cancelled_msg">task cancelled!</string>
+    <string name="one_hundred_percent">100%</string>
+    <string name="task_complete_msg">task completed!!</string>
+</resources>
